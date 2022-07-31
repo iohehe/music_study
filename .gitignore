@@ -1,0 +1,6 @@
+*.html
+*.html~
+*.tex
+*.pdf
+.DS_Store/
+

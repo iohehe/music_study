@@ -1,0 +1,16 @@
+#+Title: MIDI\_1
+#+Author: iohex
+#+Date: 2022-07-31
+
+* MIDI使用说明
+使用的键盘: AKAI MPKmini
+
+[[https://images.squarespace-cdn.com/content/v1/51245f9ee4b03a5603d145d2/1446003939566-M3KURRNOIF97N6RLIGMY/image-asset.jpeg?format=1500w]]
+
+** 按钮的意义：
++ DIVISION:
++ SWING:
++ MODE:
++ OCT:
++ LATCH:
++ SYNC
